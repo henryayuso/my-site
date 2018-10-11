@@ -11,10 +11,10 @@ p {
 }
 
 div {
-    border:10px:
+    border:30px:
     border: Tomato;
     border: solid;
-    border-radius: 15px 50px 30px
+    border-radius: 25% 25% 0% 0%;
     padding: 20px;
     width: 50%;
     height: 100%; 
