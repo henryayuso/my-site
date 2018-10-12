@@ -1,5 +1,5 @@
 body {
-    background-color: aqua;
+    background-color: blue;
    
    
 }
@@ -23,7 +23,8 @@ div {
     
   background-color:rgb(0,0,0);
 }
-#div2 {
+
+#colbg {
     background: linear-gradient(white, black 80%);
 }
 
