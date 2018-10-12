@@ -1,5 +1,5 @@
 body {
-   background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+   background-image: linear-gradient(to right, rgba(255), rgba(1));
    
 }
 
@@ -11,10 +11,11 @@ p {
 }
 
 div {
-    border:30px:
+    position 
+    border:30px;
     border: Tomato;
     border: solid;
-    border-radius: 25% 25% 0% 0%;
+    // border-radius: 25% 25% 0% 0%;
     padding: 20px;
     width: 50%;
     height: 100%; 
