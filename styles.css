@@ -16,7 +16,7 @@ div {
     border:30px;
     border: Tomato;
     border: solid;
-    border-radius: 25% 25% 0% 0%;
+    border-radius: 25% 0% 25%;
     padding: 20px;
     width: 50%;
     height: 100%; 
