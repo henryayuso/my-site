@@ -1,5 +1,5 @@
 function doGet() {
-  return HtmlService.createTemplateFromFile('index.html').evaluate();
+  return HtmlService.createTemplateFromFile('index').evaluate();
 }
  
 //GET DATA FROM GOOGLE SHEET AND RETURN AS AN ARRAY
